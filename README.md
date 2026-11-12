@@ -2,6 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-25-orange?logo=openjdk)](https://openjdk.org/projects/jdk/25/)
 [![Build](https://img.shields.io/badge/Build-Maven-blue?logo=apachemaven)](https://maven.apache.org/)
+[![CI](https://github.com/d021248/my-downloads/actions/workflows/ci.yml/badge.svg)](https://github.com/d021248/my-downloads/actions/workflows/ci.yml)
 
 Java 25 CLI wrappers for [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) (YouTube) and
 [`spotdl`](https://github.com/spotDL/spotify-downloader) (Spotify).
