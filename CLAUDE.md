@@ -6,6 +6,10 @@ CLI wrappers for `yt-dlp` (YouTube) and `spotdl` (Spotify).
 Java 25, Maven. No external Java dependencies — shells out to system tools.
 No tests (wraps external CLI tools; not unit-testable in isolation).
 
+> **Architectural excellence is not a means but a goal.**
+> No ad-hoc solutions. No classes with more than one responsibility. No hidden side effects.
+> No premature abstractions. Every design decision is explicit and justified — the code is the learning material.
+
 Sibling repos: [my-try](../my-try) (core Java learning), [my-demos](../my-demos), [my-lisp](../my-lisp).
 
 ---
